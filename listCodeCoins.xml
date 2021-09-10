@@ -1,79 +1,79 @@
 <?xml version="1.0"?>
 <data>
-    <AFN>Afghani do Afeganistão</AFN>
+    <AFN>Afghani do Afeganistao</AFN>
     <MGA>Ariary Madagascarense</MGA>
-    <THB>Baht Tailandês</THB>
+    <THB>Baht Tailandes</THB>
     <PAB>Balboa Panamenho</PAB>
-    <ETB>Birr Etíope</ETB>
+    <ETB>Birr Etiope</ETB>
     <BTC>Bitcoin</BTC>
     <BOB>Boliviano</BOB>
-    <VEF>Bolívar Venezuelano</VEF>
+    <VEF>Bolivar Venezuelano</VEF>
     <XBR>Brent Spot</XBR>
-    <GHS>Cedi Ganês</GHS>
+    <GHS>Cedi Ganes</GHS>
     <SVC>Colon de El Salvador</SVC>
-    <CRC>Colón Costarriquenho</CRC>
+    <CRC>Colon Costarriquenho</CRC>
     <CZK>Coroa Checa</CZK>
     <DKK>Coroa Dinamarquesa</DKK>
     <ISK>Coroa Islandesa</ISK>
     <NOK>Coroa Norueguesa</NOK>
     <SEK>Coroa Sueca</SEK>
-    <NIO>Córdoba Nicaraguense</NIO>
+    <NIO>Cordoba Nicaraguense</NIO>
     <SDR>DSE</SDR>
-    <GMD>Dalasi da Gâmbia</GMD>
-    <MKD>Denar Macedônio</MKD>
+    <GMD>Dalasi da Gambia</GMD>
+    <MKD>Denar Macedonio</MKD>
     <DZD>Dinar Argelino</DZD>
     <IQD>Dinar Iraquiano</IQD>
     <JOD>Dinar Jordaniano</JOD>
     <KWD>Dinar Kuwaitiano</KWD>
-    <LYD>Dinar Líbio</LYD>
-    <RSD>Dinar Sérvio</RSD>
+    <LYD>Dinar Libio</LYD>
+    <RSD>Dinar Servio</RSD>
     <TND>Dinar Tunisiano</TND>
     <BHD>Dinar do Bahrein</BHD>
     <MAD>Dirham Marroquino</MAD>
     <AED>Dirham dos Emirados</AED>
-    <STD>Dobra São Tomé/Príncipe</STD>
+    <STD>Dobra Sao Tome/Principe</STD>
     <DOGE>Dogecoin</DOGE>
     <VND>Dong Vietnamita</VND>
-    <AMD>Dram Armênio</AMD>
-    <USD>Dólar Americano</USD>
-    <AUD>Dólar Australiano</AUD>
-    <CAD>Dólar Canadense</CAD>
-    <JMD>Dólar Jamaicano</JMD>
-    <NAD>Dólar Namíbio</NAD>
-    <NZD>Dólar Neozelandês</NZD>
-    <TWD>Dólar Taiuanês</TWD>
-    <ZWL>Dólar Zimbabuense</ZWL>
-    <BSD>Dólar das Bahamas</BSD>
-    <KYD>Dólar das Ilhas Cayman</KYD>
-    <BBD>Dólar de Barbados</BBD>
-    <BZD>Dólar de Belize</BZD>
-    <BND>Dólar de Brunei</BND>
-    <SGD>Dólar de Cingapura</SGD>
-    <FJD>Dólar de Fiji</FJD>
-    <HKD>Dólar de Hong Kong</HKD>
-    <TTD>Dólar de Trinidad</TTD>
-    <XCD>Dólar do Caribe Oriental</XCD>
+    <AMD>Dram Armenio</AMD>
+    <USD>Dolar Americano</USD>
+    <AUD>Dolar Australiano</AUD>
+    <CAD>Dolar Canadense</CAD>
+    <JMD>Dolar Jamaicano</JMD>
+    <NAD>Dolar Namibio</NAD>
+    <NZD>Dolar Neozelandes</NZD>
+    <TWD>Dolar Taiuanes</TWD>
+    <ZWL>Dolar Zimbabuense</ZWL>
+    <BSD>Dolar das Bahamas</BSD>
+    <KYD>Dolar das Ilhas Cayman</KYD>
+    <BBD>Dolar de Barbados</BBD>
+    <BZD>Dolar de Belize</BZD>
+    <BND>Dolar de Brunei</BND>
+    <SGD>Dolar de Cingapura</SGD>
+    <FJD>Dolar de Fiji</FJD>
+    <HKD>Dolar de Hong Kong</HKD>
+    <TTD>Dolar de Trinidad</TTD>
+    <XCD>Dolar do Caribe Oriental</XCD>
     <CVE>Escudo cabo-verdiano</CVE>
     <ETH>Ethereum</ETH>
     <EUR>Euro</EUR>
-    <HUF>Florim Húngaro</HUF>
+    <HUF>Florim Hungaro</HUF>
     <BIF>Franco Burundinense</BIF>
     <XAF>Franco CFA Central</XAF>
     <XOF>Franco CFA Ocidental</XOF>
     <XPF>Franco CFP</XPF>
     <KMF>Franco Comorense</KMF>
-    <RWF>Franco Ruandês</RWF>
-    <CHF>Franco Suíço</CHF>
-    <CHFRTS>Franco Suíço</CHFRTS>
-    <GNF>Franco de Guiné</GNF>
+    <RWF>Franco Ruandes</RWF>
+    <CHF>Franco Suico</CHF>
+    <CHFRTS>Franco Suico</CHFRTS>
+    <GNF>Franco de Guine</GNF>
     <DJF>Franco do Djubouti</DJF>
     <HTG>Gourde Haitiano</HTG>
     <PYG>Guarani Paraguaio</PYG>
     <ANG>Guilder das Antilhas</ANG>
     <UAH>Hryvinia Ucraniana</UAH>
-    <JPY>Iene Japonês</JPY>
-    <JPYRTS>Iene Japonês</JPYRTS>
-    <PGK>Kina Papua-Nova Guiné</PGK>
+    <JPY>Iene Japones</JPY>
+    <JPYRTS>Iene Japones</JPYRTS>
+    <PGK>Kina Papua-Nova Guine</PGK>
     <LAK>Kip Laosiano</LAK>
     <HRK>Kuna Croata</HRK>
     <MWK>Kwacha Malauiana</MWK>
@@ -81,22 +81,22 @@
     <AOA>Kwanza Angolano</AOA>
     <MMK>Kyat de Mianmar</MMK>
     <GEL>Lari Georgiano</GEL>
-    <ALL>Lek Albanês</ALL>
+    <ALL>Lek Albanes</ALL>
     <HNL>Lempira Hondurenha</HNL>
     <MDL>Leu Moldavo</MDL>
     <RON>Leu Romeno</RON>
-    <BGN>Lev Búlgaro</BGN>
-    <EGP>Libra Egípcia</EGP>
+    <BGN>Lev Bulgaro</BGN>
+    <EGP>Libra Egipcia</EGP>
     <GBP>Libra Esterlina</GBP>
     <LBP>Libra Libanesa</LBP>
     <SDG>Libra Sudanesa</SDG>
-    <SYP>Libra Síria</SYP>
-    <SZL>Lilangeni Suazilandês</SZL>
+    <SYP>Libra Siria</SYP>
+    <SZL>Lilangeni Suazilandes</SZL>
     <LTC>Litecoin</LTC>
     <LSL>Loti do Lesoto</LSL>
     <AZN>Manat Azeri</AZN>
-    <BAM>Marco Conversível</BAM>
-    <MZN>Metical de Moçambique</MZN>
+    <BAM>Marco Conversivel</BAM>
+    <MZN>Metical de Mocambique</MZN>
     <MNT>Mongolian Tugrik</MNT>
     <NGN>Naira Nigeriana</NGN>
     <NGNI>Naira Nigeriana</NGNI>
@@ -130,29 +130,29 @@
     <RUBTOM>Rublo Russo</RUBTOM>
     <RUBTOD>Rublo Russo</RUBTOD>
     <MVR>Rufiyaa Maldiva</MVR>
-    <IDR>Rupia Indonésia</IDR>
-    <INR>Rúpia Indiana</INR>
-    <MUR>Rúpia Mauriciana</MUR>
-    <NPR>Rúpia Nepalesa</NPR>
-    <PKR>Rúpia Paquistanesa</PKR>
-    <LKR>Rúpia de Sri Lanka</LKR>
-    <SCR>Rúpias de Seicheles</SCR>
+    <IDR>Rupia Indonesia</IDR>
+    <INR>Rupia Indiana</INR>
+    <MUR>Rupia Mauriciana</MUR>
+    <NPR>Rupia Nepalesa</NPR>
+    <PKR>Rupia Paquistanesa</PKR>
+    <LKR>Rupia de Sri Lanka</LKR>
+    <SCR>Rupias de Seicheles</SCR>
     <KES>Shilling Queniano</KES>
     <SOS>Shilling Somaliano</SOS>
     <TZS>Shilling Tanzaniano</TZS>
-    <UGX>Shilling Ugandês</UGX>
+    <UGX>Shilling Ugandes</UGX>
     <PEN>Sol do Peru</PEN>
-    <KGS>Som Quirguistanês</KGS>
-    <UZS>Som Uzbequistanês</UZS>
-    <TJS>Somoni do Tajiquistão</TJS>
+    <KGS>Som Quirguistanes</KGS>
+    <UZS>Som Uzbequistanes</UZS>
+    <TJS>Somoni do Tajiquistao</TJS>
     <TMT>TMT</TMT>
     <BDT>Taka de Bangladesh</BDT>
-    <KZT>Tengue Cazaquistanês</KZT>
+    <KZT>Tengue Cazaquistanes</KZT>
     <VUV>Vatu de Vanuatu</VUV>
     <KRW>Won Sul-Coreano</KRW>
     <XAGG>XPrata</XAGG>
     <XRP>XRP</XRP>
-    <CNY>Yuan Chinês</CNY>
-    <CNH>Yuan chinês offshore</CNH>
-    <PLN>Zlóti Polonês</PLN>
+    <CNY>Yuan Chines</CNY>
+    <CNH>Yuan chines offshore</CNH>
+    <PLN>Zloti Polones</PLN>
 </data>
